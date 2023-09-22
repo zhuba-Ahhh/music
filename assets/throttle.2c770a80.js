@@ -1,0 +1,1 @@
+import{a0 as n,a1 as l}from"./index.c94220ca.js";var g=n,c=l,d="Expected a function";function u(a,i,e){var r=!0,t=!0;if(typeof a!="function")throw new TypeError(d);return c(e)&&(r="leading"in e?!!e.leading:r,t="trailing"in e?!!e.trailing:t),g(a,i,{leading:r,maxWait:i,trailing:t})}var o=u;export{o as t};

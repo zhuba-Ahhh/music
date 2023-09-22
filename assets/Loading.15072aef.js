@@ -1,0 +1,1 @@
+import{Q as o,j as s,k as _,U as a,V as t,l as c}from"./index.c94220ca.js";const n={},d=e=>(a("data-v-705baa5f"),e=e(),t(),e),p={class:"loading"},r=d(()=>c("div",{class:"loader"},null,-1)),i=[r];function l(e,u,v,f,h,m){return s(),_("div",p,i)}var x=o(n,[["render",l],["__scopeId","data-v-705baa5f"]]);export{x as _};

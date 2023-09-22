@@ -1,0 +1,1 @@
+import{Q as e,k as t,j as o,l as s}from"./index.c94220ca.js";const n={name:"Dj"},a=s("h2",null,"\u5F85\u5B8C\u5584",-1),c=[a];function r(_,d,l,p,i,f){return o(),t("div",null,c)}var m=e(n,[["render",r]]);export{m as default};
